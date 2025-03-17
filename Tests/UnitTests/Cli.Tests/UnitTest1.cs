@@ -1,4 +1,4 @@
-namespace UnitTests;
+namespace M2t.Cli.Tests;
 
 public class UnitTest1
 {

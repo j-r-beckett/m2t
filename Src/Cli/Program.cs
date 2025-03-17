@@ -1,6 +1,6 @@
-﻿namespace M2t;
+﻿namespace M2t.Cli;
 
-public class Program
+public static class Program
 {
     public static void Main(string[] args)
     {
