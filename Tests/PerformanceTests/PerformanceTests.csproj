@@ -6,6 +6,7 @@
     <Nullable>enable</Nullable>
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
     <IsPackable>false</IsPackable>
+    <RootNamespace>M2t.PerformanceTests</RootNamespace>
     <IsTestProject>true</IsTestProject>
   </PropertyGroup>
 
